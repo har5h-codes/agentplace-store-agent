@@ -29,7 +29,7 @@ function expectError(body: any, code: string) {
 
 describe('public routes', () => {
   it('serves health without a key', async () => {
-    await http.get('/health').expect(200, { status: 'ok' });
+    await http.get('/health').expect(200, { status: 'ok', storage: 'memory' });
   });
 
   it('serves the OpenAPI document with the request host as server', async () => {

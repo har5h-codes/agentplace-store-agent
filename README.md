@@ -101,7 +101,7 @@ DATABASE_URL=postgres://... npm run dev
 
 ## Agent test results
 
-_See [`TEST-RESULTS.md`](TEST-RESULTS.md)._
+All 4 required cases plus 5 extra ones pass, and each one is matched to its API log line. See [`TEST-RESULTS.md`](TEST-RESULTS.md).
 
 ## What I'd change for production
 

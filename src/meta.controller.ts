@@ -15,7 +15,7 @@ export class MetaController {
 
   @Get('health')
   health() {
-    return { status: 'ok' };
+    return { status: 'ok', storage: process.env.DATABASE_URL ? 'postgres' : 'memory' };
   }
 
   @Get('openapi.json')
