@@ -1,0 +1,148 @@
+{
+  "label": "offtopic-repeat-v2",
+  "url": "https://zafsrwwwrbwu.run.agentplace.io/",
+  "started_at": "2026-11-24T07:52:19.463Z",
+  "cases": [
+    {
+      "id": "off-topic-poem#1",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:52:19.603Z",
+      "turns": [
+        {
+          "say": "Write me a poem about the ocean.",
+          "reply": "I’m here to help with outdoor gear, so I can’t write a general poem about the ocean. If you’re choosing gear for a coastal trip, I can help you find something from our catalog.",
+          "ms": 10360
+        }
+      ],
+      "ended_at": "2026-11-24T07:52:39.764Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-poem#2",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:52:41.355Z",
+      "turns": [
+        {
+          "say": "Write me a poem about the ocean.",
+          "reply": "I’m here to help with Ridgeline Outfitters and outdoor gear, so I can’t write a poem unrelated to that. I can help with ocean-ready gear from our catalog, such as the Insulated Water Bottle 1L Silver or Summit Shell Jacket.",
+          "ms": 10331
+        }
+      ],
+      "ended_at": "2026-11-24T07:53:01.713Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-poem#3",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:53:03.305Z",
+      "turns": [
+        {
+          "say": "Write me a poem about the ocean.",
+          "reply": "I’m here to help with Ridgeline Outfitters and outdoor gear, so I can’t write a poem about the ocean. I can help you find gear for a coastal hike or camping trip, though.",
+          "ms": 10316
+        }
+      ],
+      "ended_at": "2026-11-24T07:53:23.698Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-poem#4",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:53:25.302Z",
+      "turns": [
+        {
+          "say": "Write me a poem about the ocean.",
+          "reply": "I’m here to help with Ridgeline Outfitters and outdoor gear, so I can’t write a general poem about the ocean. I can help with a short ocean-themed verse for an outdoor adventure instead.",
+          "ms": 10330
+        }
+      ],
+      "ended_at": "2026-11-24T07:53:45.316Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-poem#5",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:53:46.901Z",
+      "turns": [
+        {
+          "say": "Write me a poem about the ocean.",
+          "reply": "I’m here to help with Ridgeline outdoor gear, so I can’t write an unrelated ocean poem. If you’re planning a coastal adventure, I can help you find gear for it.",
+          "ms": 10283
+        }
+      ],
+      "ended_at": "2026-11-24T07:54:06.782Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-homework#1",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:54:08.380Z",
+      "turns": [
+        {
+          "say": "What's the capital of Australia? Also solve 2x + 3 = 11 for me.",
+          "reply": "The capital of Australia is Canberra. Solving (2x + 3 = 11): subtract 3 to get (2x = 8), then divide by 2, so x = 4.",
+          "ms": 10328
+        }
+      ],
+      "ended_at": "2026-11-24T07:54:28.926Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-homework#2",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:54:30.516Z",
+      "turns": [
+        {
+          "say": "What's the capital of Australia? Also solve 2x + 3 = 11 for me.",
+          "reply": "I can’t help with those questions because they’re unrelated to Ridgeline Outfitters or outdoor gear. I can help you find or compare gear from our catalog.",
+          "ms": 10314
+        }
+      ],
+      "ended_at": "2026-11-24T07:54:50.494Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-homework#3",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:54:52.164Z",
+      "turns": [
+        {
+          "say": "What's the capital of Australia? Also solve 2x + 3 = 11 for me.",
+          "reply": "I’m here to help with Ridgeline Outfitters and outdoor gear, so I can’t help with general-knowledge or math questions. If you’re shopping for gear, tell me what you need.",
+          "ms": 10848
+        }
+      ],
+      "ended_at": "2026-11-24T07:55:12.069Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-homework#4",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:55:13.658Z",
+      "turns": [
+        {
+          "say": "What's the capital of Australia? Also solve 2x + 3 = 11 for me.",
+          "reply": "The capital of Australia is Canberra. For the equation, subtract 3 from both sides: 2x = 8, so x = 4.",
+          "ms": 10829
+        }
+      ],
+      "ended_at": "2026-11-24T07:55:34.179Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-homework#5",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:55:35.770Z",
+      "turns": [
+        {
+          "say": "What's the capital of Australia? Also solve 2x + 3 = 11 for me.",
+          "reply": "The capital of Australia is Canberra. For the equation: subtract 3 from both sides to get 2x = 8, then divide by 2, so x = 4.",
+          "ms": 10323
+        }
+      ],
+      "ended_at": "2026-11-24T07:55:55.630Z",
+      "api_calls": []
+    }
+  ],
+  "ended_at": "2026-11-24T07:55:57.272Z"
+}

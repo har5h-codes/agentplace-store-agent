@@ -45,6 +45,6 @@ function toApiError(e: unknown): ApiError {
     500,
     'INTERNAL_ERROR',
     'Something went wrong on our side.',
-    'Apologise and offer to connect the customer with the store team. Do not guess the answer.',
+    'Apologise and suggest the customer contacts the store support team (you cannot transfer or hand off the conversation yourself). Do not guess the answer.',
   );
 }

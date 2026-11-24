@@ -28,7 +28,7 @@ export class ApiError extends Error {
       401,
       'UNAUTHORIZED',
       "I can't reach the store system right now.",
-      'The API key is missing or invalid. This is a configuration problem, not something the customer did. Do not retry; apologise and offer to connect them with the store team.',
+      'The API key is missing or invalid. This is a configuration problem, not something the customer did. Do not retry; apologise and suggest the customer contacts the store support team (you cannot transfer or hand off the conversation yourself).',
     );
   }
 
@@ -37,7 +37,7 @@ export class ApiError extends Error {
       403,
       'FORBIDDEN',
       "I'm not able to look that up for you.",
-      `This API key is not allowed to use "${scope}". Do not retry or guess the answer; tell the customer you can't check this and offer to connect them with the store team.`,
+      `This API key is not allowed to use "${scope}". Do not retry or guess the answer; tell the customer you can't check this and suggest the customer contacts the store support team (you cannot transfer or hand off the conversation yourself).`,
     );
   }
 

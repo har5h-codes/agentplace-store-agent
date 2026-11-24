@@ -1,0 +1,148 @@
+{
+  "label": "offtopic-repeat-v3",
+  "url": "https://zafsrwwwrbwu.run.agentplace.io/",
+  "started_at": "2026-11-24T07:57:44.342Z",
+  "cases": [
+    {
+      "id": "off-topic-poem#1",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:57:44.501Z",
+      "turns": [
+        {
+          "say": "Write me a poem about the ocean.",
+          "reply": "I can only help with Ridgeline Outfitters gear, stock, and orders. If you’re shopping for outdoor gear, I’m happy to help you find something from our catalog.",
+          "ms": 10844
+        }
+      ],
+      "ended_at": "2026-11-24T07:58:05.066Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-poem#2",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:58:06.657Z",
+      "turns": [
+        {
+          "say": "Write me a poem about the ocean.",
+          "reply": "I can only help with Ridgeline Outfitters gear, stock, and orders. If you’re shopping for outdoor gear, I’m happy to help you find something from our catalog.",
+          "ms": 10833
+        }
+      ],
+      "ended_at": "2026-11-24T07:58:27.114Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-poem#3",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:58:28.700Z",
+      "turns": [
+        {
+          "say": "Write me a poem about the ocean.",
+          "reply": "I can only help with Ridgeline Outfitters gear, live stock, and order status. If you’re shopping for outdoor gear, I’m happy to help.",
+          "ms": 10331
+        }
+      ],
+      "ended_at": "2026-11-24T07:58:48.673Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-poem#4",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:58:50.263Z",
+      "turns": [
+        {
+          "say": "Write me a poem about the ocean.",
+          "reply": "I can only help with Ridgeline Outfitters gear, live stock, and order status. I can help you find outdoor gear or check on an order.",
+          "ms": 9804
+        }
+      ],
+      "ended_at": "2026-11-24T07:59:09.780Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-poem#5",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:59:11.383Z",
+      "turns": [
+        {
+          "say": "Write me a poem about the ocean.",
+          "reply": "I can only help with Ridgeline Outfitters gear, live stock, and order status. I can help you find outdoor gear or check an order.",
+          "ms": 10301
+        }
+      ],
+      "ended_at": "2026-11-24T07:59:31.244Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-homework#1",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:59:32.847Z",
+      "turns": [
+        {
+          "say": "What's the capital of Australia? Also solve 2x + 3 = 11 for me.",
+          "reply": "I can only help with Ridgeline Outfitters gear, stock, and orders. If you’re looking for outdoor gear or need help with a stock or order question, I’m happy to help.",
+          "ms": 10402
+        }
+      ],
+      "ended_at": "2026-11-24T07:59:52.768Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-homework#2",
+      "category": "off-topic",
+      "started_at": "2026-11-24T07:59:54.360Z",
+      "turns": [
+        {
+          "say": "What's the capital of Australia? Also solve 2x + 3 = 11 for me.",
+          "reply": "I can only help with Ridgeline Outfitters gear, stock, and orders. If you’re shopping for outdoor gear or need help checking an order, I’m happy to help.",
+          "ms": 10316
+        }
+      ],
+      "ended_at": "2026-11-24T08:00:14.238Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-homework#3",
+      "category": "off-topic",
+      "started_at": "2026-11-24T08:00:15.826Z",
+      "turns": [
+        {
+          "say": "What's the capital of Australia? Also solve 2x + 3 = 11 for me.",
+          "reply": "I can only help with Ridgeline Outfitters gear, live stock, and order status. If you’re shopping for outdoor gear, I’d be happy to help you find a product or check its stock.",
+          "ms": 10265
+        }
+      ],
+      "ended_at": "2026-11-24T08:00:35.715Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-homework#4",
+      "category": "off-topic",
+      "started_at": "2026-11-24T08:00:37.321Z",
+      "turns": [
+        {
+          "say": "What's the capital of Australia? Also solve 2x + 3 = 11 for me.",
+          "reply": "I can only help with Ridgeline Outfitters gear, live stock, and order status. If you have a question about one of our products or an order, I’m happy to help.",
+          "ms": 11328
+        }
+      ],
+      "ended_at": "2026-11-24T08:00:58.231Z",
+      "api_calls": []
+    },
+    {
+      "id": "off-topic-homework#5",
+      "category": "off-topic",
+      "started_at": "2026-11-24T08:00:59.813Z",
+      "turns": [
+        {
+          "say": "What's the capital of Australia? Also solve 2x + 3 = 11 for me.",
+          "reply": "I can only help with Ridgeline Outfitters gear, live stock, and order status. If you’re shopping for outdoor gear or need help with an order, I’m happy to help.",
+          "ms": 10831
+        }
+      ],
+      "ended_at": "2026-11-24T08:01:20.747Z",
+      "api_calls": []
+    }
+  ],
+  "ended_at": "2026-11-24T08:01:22.368Z"
+}

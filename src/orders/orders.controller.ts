@@ -79,7 +79,7 @@ export class OrdersController {
         403,
         'ORDER_VERIFICATION_FAILED',
         "I couldn't verify that order with the email address provided.",
-        'Do not reveal anything about this order. Ask the customer to check the email used at checkout. If it still fails, offer to connect them with the store team.',
+        'Do not reveal anything about this order. Ask the customer to check the email used at checkout. If it still fails, suggest the customer contacts the store support team (you cannot transfer or hand off the conversation yourself).',
         'email',
       );
     }

@@ -1,0 +1,24 @@
+{
+  "label": "first-position-test",
+  "url": "https://zafsrwwwrbwu.run.agentplace.io/",
+  "started_at": "2026-11-24T08:21:00.440Z",
+  "cases": [
+    {
+      "id": "stock-out-restock",
+      "category": "core",
+      "started_at": "2026-11-24T08:21:00.561Z",
+      "turns": [
+        {
+          "say": "Is the Summit Shell Jacket blue in large available?",
+          "reply": "The Summit Shell Jacket Blue L is currently out of stock. We expect more on Tuesday, December 8.",
+          "ms": 11360
+        }
+      ],
+      "ended_at": "2026-11-24T08:21:21.575Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1002"
+      ]
+    }
+  ],
+  "ended_at": "2026-11-24T08:21:23.266Z"
+}

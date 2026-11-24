@@ -1,9 +1,11 @@
-# Ridgeline Outfitters Store API
+# Ridgeline Outfitters Store API and Agent
 
-A small store API that an [Agentplace](https://agentplace.io) agent calls for **live stock levels** and **order status**, built for the Agentplace Backend Engineer test task.
+A small store API that an [Agentplace](https://agentplace.io) agent calls for **live stock levels** and **order status**, plus a repeatable evaluation of that agent.
 
+- **Agent (published):** https://zafsrwwwrbwu.run.agentplace.io/
 - **Live API:** https://ridgeline-store-api.vercel.app (OpenAPI: [`/openapi.json`](https://ridgeline-store-api.vercel.app/openapi.json))
-- **Agent:** _link added after publishing_
+- **Backend Engineer task:** this README, plus [`TEST-RESULTS.md`](TEST-RESULTS.md) (the four required edge cases, each traced to its API log line)
+- **AI Engineer task:** [`AI-ENGINEER-RESULTS.md`](AI-ENGINEER-RESULTS.md): a 30-conversation test set, before 25/30 → after 29/30, the fixes, and what the repeated runs showed
 - **Stack:** NestJS 11 · TypeScript · PostgreSQL (Neon) · Zod · Jest + Supertest · Vercel
 
 ```

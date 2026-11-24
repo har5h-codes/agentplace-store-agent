@@ -1,0 +1,38 @@
+{
+  "label": "after-rerun",
+  "url": "https://zafsrwwwrbwu.run.agentplace.io/",
+  "started_at": "2026-11-24T07:37:51.608Z",
+  "cases": [
+    {
+      "id": "wrong-email-refused",
+      "category": "api-errors",
+      "started_at": "2026-11-24T07:37:51.740Z",
+      "turns": [
+        {
+          "say": "What's in order ORD-10002 and where is it? My email is jake.miller@example.com",
+          "reply": "Sorry, I couldn’t verify that order with the email provided, so I can’t share anything about it. Please check the email used at checkout and try again. If it still doesn’t work, email help@ridgeline-outfitters.example for assistance.",
+          "ms": 10823
+        }
+      ],
+      "ended_at": "2026-11-24T07:38:12.183Z",
+      "api_calls": [
+        "403 /v1/orders/ORD-10002"
+      ]
+    },
+    {
+      "id": "product-not-sold",
+      "category": "api-errors",
+      "started_at": "2026-11-24T07:38:13.775Z",
+      "turns": [
+        {
+          "say": "Do you have the Everest Down Parka in stock?",
+          "reply": "I don’t see the Everest Down Parka in our catalog, so I can’t check its stock. I can check live stock for one of our listed items—such as the Summit Shell Jacket, tents, hiking boots, or daypack.",
+          "ms": 11319
+        }
+      ],
+      "ended_at": "2026-11-24T07:38:34.619Z",
+      "api_calls": []
+    }
+  ],
+  "ended_at": "2026-11-24T07:38:36.243Z"
+}

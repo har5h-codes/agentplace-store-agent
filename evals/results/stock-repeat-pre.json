@@ -1,0 +1,168 @@
+{
+  "label": "stock-repeat-pre",
+  "url": "https://zafsrwwwrbwu.run.agentplace.io/",
+  "started_at": "2026-11-24T08:16:51.861Z",
+  "cases": [
+    {
+      "id": "stock-in#1",
+      "category": "core",
+      "started_at": "2026-11-24T08:16:51.972Z",
+      "turns": [
+        {
+          "say": "Is the Summit Shell Jacket in blue, size M in stock?",
+          "reply": "Yes, the Summit Shell Jacket Blue M is in stock.",
+          "ms": 12874
+        }
+      ],
+      "ended_at": "2026-11-24T08:17:14.598Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1001"
+      ]
+    },
+    {
+      "id": "stock-in#2",
+      "category": "core",
+      "started_at": "2026-11-24T08:17:16.186Z",
+      "turns": [
+        {
+          "say": "Is the Summit Shell Jacket in blue, size M in stock?",
+          "reply": "Yes, the Summit Shell Jacket (Blue, M) is in stock.",
+          "ms": 11865
+        }
+      ],
+      "ended_at": "2026-11-24T08:17:37.698Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1001"
+      ]
+    },
+    {
+      "id": "stock-in#3",
+      "category": "core",
+      "started_at": "2026-11-24T08:17:39.299Z",
+      "turns": [
+        {
+          "say": "Is the Summit Shell Jacket in blue, size M in stock?",
+          "reply": "Yes, the Summit Shell Jacket (Blue, M) is in stock.",
+          "ms": 10847
+        }
+      ],
+      "ended_at": "2026-11-24T08:17:59.674Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1001"
+      ]
+    },
+    {
+      "id": "stock-in#4",
+      "category": "core",
+      "started_at": "2026-11-24T08:18:01.268Z",
+      "turns": [
+        {
+          "say": "Is the Summit Shell Jacket in blue, size M in stock?",
+          "reply": "Yes, the Summit Shell Jacket (Blue, M) is in stock.",
+          "ms": 11332
+        }
+      ],
+      "ended_at": "2026-11-24T08:18:21.752Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1001"
+      ]
+    },
+    {
+      "id": "stock-in#5",
+      "category": "core",
+      "started_at": "2026-11-24T08:18:23.347Z",
+      "turns": [
+        {
+          "say": "Is the Summit Shell Jacket in blue, size M in stock?",
+          "reply": "Yes, the Summit Shell Jacket Blue M is in stock.",
+          "ms": 10799
+        }
+      ],
+      "ended_at": "2026-11-24T08:18:43.795Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1001"
+      ]
+    },
+    {
+      "id": "stock-low#1",
+      "category": "core",
+      "started_at": "2026-11-24T08:18:45.378Z",
+      "turns": [
+        {
+          "say": "Do you have the black Summit Shell Jacket in medium?",
+          "reply": "Yes—we have the Summit Shell Jacket Black M in stock, with only 3 left. It’s $189.",
+          "ms": 11365
+        }
+      ],
+      "ended_at": "2026-11-24T08:19:06.419Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1003"
+      ]
+    },
+    {
+      "id": "stock-low#2",
+      "category": "core",
+      "started_at": "2026-11-24T08:19:08.008Z",
+      "turns": [
+        {
+          "say": "Do you have the black Summit Shell Jacket in medium?",
+          "reply": "Yes, the Summit Shell Jacket Black M is in stock, with only 3 left. It’s $189.",
+          "ms": 11872
+        }
+      ],
+      "ended_at": "2026-11-24T08:19:29.552Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1003"
+      ]
+    },
+    {
+      "id": "stock-low#3",
+      "category": "core",
+      "started_at": "2026-11-24T08:19:31.148Z",
+      "turns": [
+        {
+          "say": "Do you have the black Summit Shell Jacket in medium?",
+          "reply": "Yes, the Summit Shell Jacket Black M is in stock, with only 3 left.",
+          "ms": 10857
+        }
+      ],
+      "ended_at": "2026-11-24T08:19:52.171Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1003"
+      ]
+    },
+    {
+      "id": "stock-low#4",
+      "category": "core",
+      "started_at": "2026-11-24T08:19:53.769Z",
+      "turns": [
+        {
+          "say": "Do you have the black Summit Shell Jacket in medium?",
+          "reply": "Yes — the Summit Shell Jacket Black M is in stock, with only 3 left. It’s $189.",
+          "ms": 11317
+        }
+      ],
+      "ended_at": "2026-11-24T08:20:14.689Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1003"
+      ]
+    },
+    {
+      "id": "stock-low#5",
+      "category": "core",
+      "started_at": "2026-11-24T08:20:16.275Z",
+      "turns": [
+        {
+          "say": "Do you have the black Summit Shell Jacket in medium?",
+          "reply": "Yes—Summit Shell Jacket Black M is in stock, with 3 left. It’s listed at $189 in our catalog.",
+          "ms": 11345
+        }
+      ],
+      "ended_at": "2026-11-24T08:20:37.558Z",
+      "api_calls": [
+        "200 /v1/stock/RDG-1003"
+      ]
+    }
+  ],
+  "ended_at": "2026-11-24T08:20:39.238Z"
+}
